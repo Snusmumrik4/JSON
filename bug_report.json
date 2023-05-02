@@ -1,1 +1,16 @@
-
+{ 
+  "Id_bug": 1,
+  "Enviroment": "iOS safari",
+  "Title_bug": "The menu title [Library] cannot be clicked",
+  "STR": { 
+            "1": "opend main page",
+            "2": "click on [Library]"  
+         },
+  
+  "Expected_result": "The menu title [Library] click is available",
+  "Actual_result": "The menu title [Library] cannot be clicked",
+  "Severity": "minor",
+  "Priority": "low"
+}
+  
+  
